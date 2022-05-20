@@ -1,0 +1,5 @@
+chat-filter:
+    enabled: true
+    replace-word: "****"
+    words:
+        - "Censored"

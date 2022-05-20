@@ -1,0 +1,5 @@
+name: ChatWizard
+version: '${project.version}'
+main: com.studionode.chatwizard.ChatWizard
+api-version: 1.13
+authors: [StudioNode]
